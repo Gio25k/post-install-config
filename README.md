@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>doesthisshowherere
+<p>
 <img src="https://i.gyazo.com/a926cfe925584288f523c94269713dd0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
