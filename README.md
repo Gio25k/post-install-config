@@ -71,7 +71,10 @@ Leave the remaining fields set as default and simply review what selections are 
 <img src="https://i.gyazo.com/97940eaa165c85ba8eb9171db132e477.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
 </p>
 <br />
 
