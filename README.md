@@ -50,13 +50,14 @@ Enter "Supreme Admin" as the role and enable every possible permission available
 <img src="https://i.gyazo.com/5ce87fe2224e3d4a4dfa5934748ab6c8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
 Admin Panel -> Agents -> Departments
 SysAdmins
 Leave the remaining fields set as default and simply review what selections are available to choose from
 
 </p>
-<br /># post-install-config
+
 
 <p>
 <img src="https://i.gyazo.com/c3b5099a4bb3ff3730657f6aac955031.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
