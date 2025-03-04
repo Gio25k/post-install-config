@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -31,6 +28,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+  Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access. An unlimited number of roles can be created and assigned to Agents with access to various departments.
+Admin Panel -> Agents -> Roles
+Supreme Admin
 <img src="https://i.gyazo.com/a926cfe925584288f523c94269713dd0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
