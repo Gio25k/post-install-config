@@ -42,7 +42,7 @@ Supreme Admin
 <img src="https://i.gyazo.com/9df04eae5906630e19349c0556eb6b1e.png="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Enter "Supreme Admin" as the role
+Enter "Supreme Admin" as the role and enable every possible permission available
 </p>
 <br />
 
