@@ -72,9 +72,9 @@ Leave the remaining fields set as default and simply review what selections are 
 </p>
 <p>
 Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
-Admin Panel -> Agents -> Teams
+Admin Panel -> Agents -> Teams -> Add new Team named Online Banking
 Level I Support
-Level II Support
+Online Banking
 </p>
 <br />
 
