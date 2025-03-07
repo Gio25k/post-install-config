@@ -52,8 +52,7 @@ Enter "Supreme Admin" as the role and enable every possible permission available
 <p>
 
 Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
-Admin Panel -> Agents -> Departments
-SysAdmins
+Admin Panel -> Agents -> Departments ->SysAdmins
 Leave the remaining fields set as default and simply review what selections are available to choose from
 
 </p>
